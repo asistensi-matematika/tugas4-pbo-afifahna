@@ -34,8 +34,9 @@ NRP  : 06111840000074
 ## Screenshot hasil
 ![Capture](https://user-images.githubusercontent.com/49546153/67066743-0acf5f00-f19e-11e9-90ec-f0f13550eec8.PNG)
 ![Capture 1](https://user-images.githubusercontent.com/49546153/67066745-0c008c00-f19e-11e9-85b4-04c02c704c75.PNG)
-![Capture 3](https://user-images.githubusercontent.com/49546153/67066748-0d31b900-f19e-11e9-9152-0027e8012851.PNG)
-![Capture 4](https://user-images.githubusercontent.com/49546153/67066750-102ca980-f19e-11e9-9f0a-d86951ffc6d1.PNG)
+![Capture 2](https://user-images.githubusercontent.com/49546153/67067271-d5c40c00-f19f-11e9-9085-0bcd284d4935.PNG)
+![Capture 4](https://user-images.githubusercontent.com/49546153/67067272-d78dcf80-f19f-11e9-9bd8-26fead7194ae.PNG)
+
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini

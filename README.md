@@ -1,8 +1,8 @@
 # TUGAS 4 ASISTENSI PBO - Jumat, 11 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: Afifah Nadhirah
 
-NRP: `isi nrp disini`
+NRP: 06111840000074
 
 ## Deskripsi Tugas
 
